@@ -145,7 +145,7 @@ func Test_busyStudent(t *testing.T) {
 ```
 
 ## my self record
-[golang leetcode 30 24thday](https://hackmd.io/NumvG0idTgy5N8fujgo2wg?view)
+[golang leetcode 30 23thday](https://hackmd.io/NumvG0idTgy5N8fujgo2wg?view)
 ## 參考文章
 
 [golang test](https://ithelp.ithome.com.tw/articles/10204692)
